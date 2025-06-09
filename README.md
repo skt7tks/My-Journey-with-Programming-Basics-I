@@ -1,5 +1,5 @@
-# My-Journey-with-Programming-Basics-I
-This repository contains my study notes and key concepts from the **Programming Basics I** course, covering fundamental programming principles and the C language.
+# My-Journey-with-Programming-Basics-I-II
+This repository contains my study notes and key concepts from the **Programming Basics I-II** course, covering fundamental programming principles and the C language.
 ![image](https://github.com/user-attachments/assets/493383a2-b048-4071-a176-769401336e28)
 
 
